@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="Tipo">"¿QUE TIPO QUIERES ELEGIR?"</string>
+    <string-array name="tipos">
+        <item>bug</item>
+        <item>electric</item>
+        <item>fire</item>
+        <item>grass</item>
+        <item>normal</item>
+        <item>rock</item>
+        <item>dark</item>
+        <item>fairy</item>
+        <item>flying</item>
+        <item>ground</item>
+        <item>poison</item>
+        <item>streel</item>
+        <item>dragon</item>
+        <item>fighting</item>
+        <item>ghost</item>
+        <item>ice</item>
+        <item>psychic</item>
+        <item>water</item>
+    </string-array>
+</resources>
